@@ -1,9 +1,8 @@
- DecodeLabs Python Internship Projects
+ # DecodeLabs Python Internship Projects
 
 This repository contains the projects completed during my Python Programming Internship at DecodeLabs.
-
 The internship focuses on developing practical programming skills through hands-on projects that reinforce core Python concepts, problem-solving, application development, and coding best practices.
-Projects
+# Projects:
 
 -To-Do List Application
   A task management application with a graphical user interface that allows users to add, complete, and delete tasks.
@@ -14,7 +13,7 @@ Projects
 -Password Generator
   A password generation tool that creates strong, random passwords based on user-defined criteria such as length and character types, helping users improve account security.
 
-#Skills Practiced
+# Skills Practiced
 
 * Python Programming
 * GUI Development (Tkinter / CustomTkinter)
